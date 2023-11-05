@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+aisles.csv
+departments.csv
+instacart-market-basket-analysis.zip
+order_products__prior.csv
+order_products__train.csv
+orders.csv
+products.csv
+swapfile
+sample_submission.csv
+user_features.pkl
+user_product_features.pkl
+product_features.pkl
